@@ -5,26 +5,26 @@ Please have a look around my repositories, check out my portfolio, and email me 
 
 ## Languages & Technologies
 ---------------------------
-*HTML5
-*CSS
-*JavaScript
-*Node.js
-*Express.js
-*MYSQL
-*MONGODB
-*REACT
-*REST APIs
-*Object Oriented Programing
-*Object Relational Mapping
-*Model View Controller
-*Progressive Web Applications
-*MERN
+*HTML5  
+*CSS  
+*JavaScript  
+*Node.js  
+*Express.js  
+*MYSQL  
+*MONGODB  
+*REACT  
+*REST APIs  
+*Object Oriented Programing  
+*Object Relational Mapping  
+*Model View Controller  
+*Progressive Web Applications  
+*MERN  
 
 ## Contact Me
 ---------------------------
-Email: katelynarmstrong6@gmail.com
-Portfolio: https://katelynarmstrong.github.io/katelyn-armstrong/
-LinkedIn: https://www.linkedin.com/in/katelynarmstrong6/
+Email: katelynarmstrong6@gmail.com  
+Portfolio: https://katelynarmstrong.github.io/katelyn-armstrong/  
+LinkedIn: https://www.linkedin.com/in/katelynarmstrong6/  
 
 <!--
 **katelynarmstrong/KatelynArmstrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
